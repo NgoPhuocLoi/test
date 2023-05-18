@@ -3,4 +3,5 @@
 int main(){
 	printf("Hello Git");
 	puts("This file has been changed!");
+	puts("Hehe");
 }
